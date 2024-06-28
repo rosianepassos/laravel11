@@ -7,7 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## Kit inicial para o Laravel docker
+## Kit inicial Laravel Docker
 - Laravel v11.x
 - PHP v8.3.x
 - MySQL v8.0.x
