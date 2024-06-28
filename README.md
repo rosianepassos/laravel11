@@ -22,7 +22,7 @@
 -  git clone https://github.com/rosianepassos/projetolaravel11.git;
 -  Code
 -  HTTPS
--  Dowload zip
+-  Dowload ZIP
 -  Descompactar em home/user
 - cd meuprojeto.
 ## NOTAS
