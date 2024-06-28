@@ -20,6 +20,10 @@
 
 ## Processo de implantação 
 -  git clone https://github.com/rosianepassos/projetolaravel11.git;
+-  code
+-  https
+-  Dowload .zip
+-  Descompactar em home/user
 - cd meuprojeto.
 ## NOTAS
 ## Versões do Laravel 
