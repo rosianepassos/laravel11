@@ -8,28 +8,28 @@
 </p>
 
 ## Kit inicial para o Laravel docker
-- Laravel v11.x.
-- PHP v8.3.x.
+- Laravel v11.x;
+- PHP v8.3.x;
 - MySQL v8.0.x.
 
 ## Requisitos
-- Versão estável do Docker.
-- WSL2 (para Windows). 
-- Ubuntu v22.04.x.
+- Versão estável do Docker;
+- WSL2 (para Windows);
+- Ubuntu v22.04.x;
 - Windows v10.x.
 
 ## Processo de implantação 
-- git clone https://github.com/.
+- git clone https://github.com/;
 - cd meuprojeto.
 
 ## NOTAS
 ## Versões do Laravel 
-- Laravel v11.x.
+- Laravel v11.x;
 - Laravel v10.x.
 
 ## Acesso ao aplicativo
-- Iniciar o Docker Desktop.
-- Iniciar os containers.
+- Iniciar o Docker Desktop;
+- Iniciar os containers;
 - URL: http//:localhost.
   
 
