@@ -19,7 +19,7 @@
 - Windows v10.x.
 
 ## Processo de implantação 
-- git clone https://github.com/rosianepassos/projetolaravel11;
+-  [git clone https://github.com/rosianepassos/projetolaravel11.git);
 - cd meuprojeto.
 ## NOTAS
 ## Versões do Laravel 
