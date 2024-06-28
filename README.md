@@ -7,6 +7,41 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+## Kit inicial para o Laravel docker
+- Laravel v11.x.
+- PHP v8.3.x.
+- MySQL v8.0.x.
+
+## Requisitos
+- Versão estável do Docker.
+- WSL2 (para Windows). 
+- Ubuntu v22.04.x.
+- Windows v10.x.
+
+## Processo de implantação 
+- git clone https://github.com/.
+- cd meuprojeto.
+
+## NOTAS
+## Versões do Laravel 
+- Laravel v11.x.
+- Laravel v10.x.
+
+## Acesso ao aplicativo
+- Iniciar o Docker Desktop.
+- Iniciar os containers.
+- URL: http//:localhost.
+  
+
+  
+
+  
+
+
+
+
+
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
@@ -48,6 +83,10 @@ We would like to extend our thanks to the following sponsors for funding Laravel
 - **[Active Logic](https://activelogic.com)**
 - **[byte5](https://byte5.de)**
 - **[OP.GG](https://op.gg)**
+- 
+
+
+
 
 ## Contributing
 
